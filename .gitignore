@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/
+bin/
+target/
+*.class
+
+# Test reports
+Reports/
+Screenshots/
+
+# Credentials
+.env
+config.properties
